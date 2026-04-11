@@ -10,7 +10,7 @@
 
 ## 已发布
 
-- [《第四面墙》周刊：第一期](issues/issue-01/)
+- [《第四面墙》周刊：第一期](issues/issue-01/《第四面墙》周刊：第一期.md)
 
 
 Created by [limeya](https://github.com/limeya)
