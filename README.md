@@ -14,7 +14,7 @@
 - [《第四面墙》周刊：第二期](issues/issue-02/《第四面墙》周刊：第二期.md)
 - [《第四面墙》周刊：第三期](issues/issue-03/《第四面墙》周刊：第三期.md)
 - [《第四面墙》周刊：第五期](issues/issue-05/《第四面墙》周刊：第五期.md)
-- [《第四面墙》周刊：第六期](issues/issue-06/README.md) ✨ 最新发布
+- [《第四面墙》周刊：第六期](issues/issue-06/《第四面墙》周刊：第六期.md) ✨ 最新发布
 
 
 Created by [limeya](https://github.com/limeya)
